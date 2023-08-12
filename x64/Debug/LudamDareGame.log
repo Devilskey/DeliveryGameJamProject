@@ -1,0 +1,32 @@
+﻿  coin.cpp
+  Game.cpp
+  Level1.cpp
+  LevelLoader.cpp
+  main.cpp
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\ObsticalBox.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ecola\source\repos\LudamDareGame\ObsticalBox.h(12,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\main.cpp(110,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\main.cpp(112,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Menu.cpp
+  ObsticalBox.cpp
+C:\Users\ecola\source\repos\LudamDareGame\ObsticalBox.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ecola\source\repos\LudamDareGame\ObsticalBox.h(12,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Package.cpp
+  Player.cpp
+C:\Users\ecola\source\repos\LudamDareGame\Player.h(32,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\LudamDareGame\Player.h(32,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\Player.h(32,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\LudamDareGame\Player.h(32,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\Player.cpp(34,8): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  screen.cpp
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\LudamDareGame\player.h(32,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LudamDareGame.vcxproj -> C:\Users\ecola\source\repos\LudamDareGame\x64\Debug\LudamDareGame.exe
